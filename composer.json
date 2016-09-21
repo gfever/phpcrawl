@@ -1,5 +1,6 @@
 {
 	"name": "gfever/phpcrawl",
+	"version": "naster",
 	"description": "PHPCrawl is a webcrawler/webspider-library written in PHP. It supports filters, limiters, cookie-handling, robots.txt-handling, multiprocessing and much more.",
 	"license": "GPL-v2",
 	"authors": [
